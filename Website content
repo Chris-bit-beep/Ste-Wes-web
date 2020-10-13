@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+</head>
+<link href="https://fonts.googleapis.com/css2?family=David+Libre&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=David+Libre&display=swap" rel="stylesheet">
+<style>
+
+
+
+
+    .rectangle1 {
+    height: 15px;
+    width: 500px;
+    position: relative;
+    top: 300px;
+    left: 300px;
+    background-color: #F3E5AB;
+
+    }
+
+    .rectangle2{
+    height: 13px;
+    width: 300px;
+    position: relative;
+    top: 313px;
+    left: 300px;
+    background-color: #F2BB66;
+
+    }
+
+
+
+    h4 {
+    margin: 200px 200px;
+    font-size: 69px;
+    text-align: center;
+    padding: 10px;
+    font-family: 'David Libre', serif;
+    z-index: 3;
+    position: relative;
+    }
+
+    h5 {
+
+    text-align: center;
+    padding: 10px;
+    font-family: 'David Libre', serif;
+
+    }
+
+
+
+
+
+
+
+
+</style>
+<body>
+
+
+            <div class="rectangle1"></div>
+            <div class="rectangle2"></div>
+
+            <h4>Hi Wesley and Steven.</h4>
+
+         <hr>
+            <h5>It's Chris.</h5>
+
+</body>
+</html>
